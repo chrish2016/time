@@ -1,0 +1,33 @@
+* {
+  font-family: 'arial' sans-serif;
+}
+
+#wrapper {
+  display: block;
+}
+
+.titlebox {
+  display: inline-block;
+  width: 300px;
+  height: 75px;
+  padding: 5px;
+  border: solid black 2px;
+}
+
+.timebox {
+  display: inline-block;
+  width: 800px;
+  height: 800px;
+  border: solid black 10px;
+  padding: 35px;
+}
+
+h1 {
+  font-weight: 100;
+  font-size: 100px;
+}
+
+h2 {
+  font-weight: 150;
+  font-size: 48px;
+}
